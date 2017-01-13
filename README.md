@@ -1,9 +1,9 @@
-[Title]: CXP
-[Author]: Dimitris Mavrommatis (mavromat@ics.forth.gr) -- @inspire_forth
+#[Title]: CXP
+#[Author]: Dimitris Mavrommatis (mavromat@ics.forth.gr) -- @inspire_forth
 
 ------------------------------------------------------------------------------------------------------------
 
-[Details]: 
+#[Details]: 
 To run this project you have to put the CXP.py file inside the /pox/ext directory and then place the cxp
 folder which contains the configuration file inside the /pox/ directory.
 
@@ -38,12 +38,12 @@ stiching depending on the lowest latency path.
 
 ------------------------------------------------------------------------------------------------------------
 
-[Warning]:
+#[Warning]:
 This script comes as-is with no promise of functionality or accuracy. I did not write it to be efficient nor 
 secured. Feel free to change or improve it any way you see fit.
 
 ------------------------------------------------------------------------------------------------------------   
 
-[Modification, Distribution, and Attribution]:
+#[Modification, Distribution, and Attribution]:
 You are free to modify and/or distribute this script as you wish.  I only ask that you maintain original
 author attribution and not attempt to sell it or incorporate it into any commercial offering.
