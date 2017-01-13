@@ -1,5 +1,9 @@
-#[Title]: CXP
-#[Author]: Dimitris Mavrommatis (mavromat@ics.forth.gr) -- @inspire_forth
+#[Title]: Control eXchange Point Implementation
+
+------------------------------------------------------------------------------------------------------------
+
+#[Author]: 
+Dimitris Mavrommatis (mavromat@ics.forth.gr) -- @inspire_forth
 
 ------------------------------------------------------------------------------------------------------------
 
